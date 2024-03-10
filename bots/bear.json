@@ -4,11 +4,11 @@
     "health": 15,
     "attack_proba": 4,
     "spawn_proba": 60,
-    "teamdamage": 0,
-    "hammer": 1,
-    "gun": 0,
-    "hook": 0,
-    "AI": 1,
+    "teamdamage": false,
+    "hammer": true,
+    "gun": false,
+    "hook": false,
+    "AI": true,
     "drops":
     [
         {

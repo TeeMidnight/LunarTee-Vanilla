@@ -1,0 +1,14 @@
+{
+    "name": "Gun",
+    "need": 
+    [
+        {
+            "name": "Stone",
+            "num": 3
+        },
+        {
+            "name": "Metal",
+            "num": 3
+        }
+    ]
+}

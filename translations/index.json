@@ -1,0 +1,10 @@
+[
+    {
+		"file": "en",
+		"name": "English"
+	},
+	{
+		"file": "zh-CN",
+		"name": "简体中文"
+	}
+]

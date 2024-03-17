@@ -1,0 +1,21 @@
+{
+    "name": "Frame",
+    "need": 
+    [
+        {
+            "name": "Stone",
+            "num": 2
+        },
+        {
+            "name": "Wood",
+            "num": 1
+        }
+    ],
+    "give":
+    [
+        {
+            "name": "Frame",
+            "num": 2
+        }
+    ]
+}

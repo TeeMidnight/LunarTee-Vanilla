@@ -1,11 +1,9 @@
 {
-    "name": "Rock",
-    "skin": "default",
-    "health": 20,
+    "name": "Left gift",
+    "skin": "giftee_green",
+    "health": 5,
     "attack_proba": 0,
-    "spawn_proba": 60,
-    "color_body": 0,
-    "color_feet": 0,
+    "spawn_proba": 30,
     "teamdamage": false,
     "hammer": true,
     "gun": false,
@@ -14,16 +12,16 @@
     "drops":
     [
         {
-            "name": "Stone",
+            "name": "Gunpowder",
             "proba": 100,
             "min": 1,
-            "max": 4
+            "max": 2
         },
         {
             "name": "Metal",
             "proba": 30,
-            "min": 1,
-            "max": 2
+            "min": 2,
+            "max": 3
         }
     ]
 }

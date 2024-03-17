@@ -1,5 +1,5 @@
 {
-    "name": "Gun",
+    "name": "Shotgun",
     "need": 
     [
         {
@@ -14,7 +14,7 @@
     "give":
     [
         {
-            "name": "Gun",
+            "name": "Shotgun",
             "num": 1
         }
     ]

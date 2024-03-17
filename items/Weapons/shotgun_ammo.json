@@ -1,0 +1,21 @@
+{
+    "name": "Shotgun Ammo",
+    "need": 
+    [
+        {
+            "name": "Empty Ammo",
+            "num": 5
+        },
+        {
+            "name": "Gunpowder",
+            "num": 10
+        }
+    ],
+    "give":
+    [
+        {
+            "name": "Shotgun Ammo",
+            "num": 5
+        }
+    ]
+}

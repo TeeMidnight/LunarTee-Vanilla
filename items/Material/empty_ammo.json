@@ -1,0 +1,21 @@
+{
+    "name": "Empty Ammo",
+    "need": 
+    [
+        {
+            "name": "Metal",
+            "num": 1
+        },
+        {
+            "name": "Stone",
+            "num": 1
+        }
+    ],
+    "give":
+    [
+        {
+            "name": "Empty Ammo",
+            "num": 10
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "name": "Shrub",
     "skin": "greensward",
-    "health": 10,
+    "health": 3,
     "attack_proba": 0,
     "spawn_proba": 60,
     "teamdamage": false,

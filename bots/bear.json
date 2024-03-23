@@ -1,9 +1,9 @@
 {
     "name": "Bear",
     "skin": "coala",
-    "health": 15,
+    "health": 5,
     "attack_proba": 4,
-    "spawn_proba": 60,
+    "spawn_proba": 30,
     "teamdamage": false,
     "hammer": true,
     "gun": false,

@@ -1,7 +1,7 @@
 {
     "name": "Rock",
-    "skin": "default",
-    "health": 20,
+    "skin": "asteroid",
+    "health": 12,
     "attack_proba": 0,
     "spawn_proba": 60,
     "color_body": 0,

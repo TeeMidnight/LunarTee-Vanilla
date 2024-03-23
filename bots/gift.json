@@ -1,7 +1,7 @@
 {
     "name": "Left Gift",
     "skin": "giftee_green",
-    "health": 5,
+    "health": 3,
     "attack_proba": 0,
     "spawn_proba": 30,
     "teamdamage": false,

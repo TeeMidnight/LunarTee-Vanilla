@@ -4,11 +4,14 @@
     "health": 5,
     "attack_proba": 4,
     "spawn_proba": 30,
+
     "teamdamage": false,
     "hammer": true,
     "gun": false,
     "hook": false,
-    "AI": true,
+
+    "type": "monster",
+
     "drops":
     [
         {

@@ -1,6 +1,6 @@
 {
-    "datapack-version": 2,
+    "datapack-version": 3,
     "package-name": "Vanilla",
     "package-id": "vanilla",
-    "package-version": "restart v0.1.3"
+    "package-version": "restart v0.1.4"
 }

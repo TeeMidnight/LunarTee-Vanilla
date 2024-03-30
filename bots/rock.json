@@ -6,11 +6,14 @@
     "spawn_proba": 60,
     "color_body": 0,
     "color_feet": 0,
+
     "teamdamage": false,
     "hammer": true,
     "gun": false,
     "hook": false,
-    "AI": false,
+
+    "type": "resource",
+    
     "drops":
     [
         {

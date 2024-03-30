@@ -10,7 +10,7 @@
     "gun": false,
     "hook": false,
 
-    "type": "shopNPC",
+    "type": "trader",
 
     "trade":
     [
@@ -24,13 +24,11 @@
                 }
             ],
             "give":
-            [
-                {
-                    "name": "Lunar Coin",
-                    "max": 2,
-                    "min": 1
-                }
-            ]
+            {
+                "name": "Lunar Coin",
+                "max": 2,
+                "min": 1
+            }
         },
         {
             "need": 
@@ -42,13 +40,11 @@
                 }
             ],
             "give":
-            [
-                {
-                    "name": "Lunar Coin",
-                    "max": 3,
-                    "min": 1
-                }
-            ]
+            {
+                "name": "Lunar Coin",
+                "max": 3,
+                "min": 1
+            }
         },
         {
             "need": 
@@ -60,13 +56,11 @@
                 }
             ],
             "give":
-            [
-                {
-                    "name": "Gunpowder",
-                    "max": 10,
-                    "min": 5
-                }
-            ]
+            {
+                "name": "Gunpowder",
+                "max": 10,
+                "min": 5
+            }
         }
     ]
 }

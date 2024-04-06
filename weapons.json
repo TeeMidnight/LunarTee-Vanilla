@@ -22,5 +22,9 @@
         "item": "Rifle",
         "item_ammo": "Laser",
         "weapon": 4
+    },
+    {
+        "item": "Ninja",
+        "weapon": 5
     }
 ]

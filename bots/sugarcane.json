@@ -61,6 +61,38 @@
                 "max": 10,
                 "min": 5
             }
+        },
+        {
+            "need": 
+            [
+                {
+                    "name": "Lunar Coin",
+                    "max": 125,
+                    "min": 100
+                }
+            ],
+            "give":
+            {
+                "name": "Rifle",
+                "max": 1,
+                "min": 1
+            }
+        },
+        {
+            "need": 
+            [
+                {
+                    "name": "Lunar Coin",
+                    "max": 20,
+                    "min": 10
+                }
+            ],
+            "give":
+            {
+                "name": "Laser",
+                "max": 10,
+                "min": 5
+            }
         }
     ]
 }

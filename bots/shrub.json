@@ -1,6 +1,6 @@
 {
     "name": "Shrub",
-    "skin": "greensward",
+    "skin-id": "shrub-vanilla",
     "health": 3,
     "attack_proba": 0,
     "spawn_proba": 60,

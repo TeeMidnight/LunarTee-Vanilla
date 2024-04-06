@@ -1,6 +1,6 @@
 {
     "name": "Bear",
-    "skin": "coala",
+    "skin-id": "coala-vanilla",
     "health": 5,
     "attack_proba": 4,
     "spawn_proba": 30,

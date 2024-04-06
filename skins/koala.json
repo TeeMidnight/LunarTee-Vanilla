@@ -1,0 +1,49 @@
+{
+	"skin-id": "coala-vanilla",
+	"skin7": 
+	{
+		"body":
+		{
+			"name": "koala",
+			"custom_color": true,
+			"hue": 0,
+			"sat": 0,
+			"lgt": 184
+		},
+		"marking":
+		{
+			"name": "twinbelly",
+			"custom_color": true,
+			"hue": 21,
+			"sat": 12,
+			"lgt": 226,
+			"alp": 255
+		},
+		"hands":
+		{
+			"name": "standard",
+			"custom_color": true,
+			"hue": 0,
+			"sat": 0,
+			"lgt": 184
+		},
+		"feet":
+		{
+			"name": "standard",
+			"custom_color": true,
+			"hue": 149,
+			"sat": 4,
+			"lgt": 71
+		},
+		"eyes":
+		{
+			"name": "standard",
+			"custom_color": false
+		}
+	},
+	"skin6": 
+	{
+		"name": "coala",
+		"custom_color": false
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"skin-id": "shrub-vanilla",
+	"skin7": 
+	{
+		"body":
+		{
+			"name": "spiky",
+			"custom_color": true,
+			"hue": 75,
+			"sat": 171,
+			"lgt": 32
+		},
+		"marking":
+		{
+			"name": "duodonny",
+			"custom_color": true,
+			"hue": 85,
+			"sat": 52,
+			"lgt": 189,
+			"alp": 96
+		},
+		"hands":
+		{
+			"name": "standard",
+			"custom_color": true,
+			"hue": 85,
+			"sat": 112,
+			"lgt": 0
+		},
+		"feet":
+		{
+			"name": "standard",
+			"custom_color": true,
+			"hue": 85,
+			"sat": 87,
+			"lgt": 156
+		},
+		"eyes":
+		{
+			"name": "standard",
+			"custom_color": true,
+			"hue": 28,
+			"sat": 178,
+			"lgt": 94
+		}
+	},
+	"skin6": 
+	{
+		"name": "greensward",
+		"custom_color": false
+	}
+}

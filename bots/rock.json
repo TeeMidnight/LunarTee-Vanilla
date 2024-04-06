@@ -1,11 +1,10 @@
 {
     "name": "Rock",
-    "skin": "asteroid",
+    "skin-id": "rock-vanilla",
+
     "health": 12,
     "attack_proba": 0,
     "spawn_proba": 60,
-    "color_body": 0,
-    "color_feet": 0,
 
     "teamdamage": false,
     "hammer": true,

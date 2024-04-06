@@ -1,6 +1,6 @@
 {
     "name": "Sugarcane",
-    "skin": "santa_coala",
+    "skin-id": "sugarcane-vanilla",
     "health": 5,
     "attack_proba": 4,
     "spawn_proba": 30,

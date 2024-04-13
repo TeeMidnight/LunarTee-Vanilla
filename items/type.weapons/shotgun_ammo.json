@@ -1,20 +1,20 @@
 {
-    "name": "ammo.shotgun",
+    "id": "ammo.shotgun",
     "need": 
     [
         {
-            "name": "material.empty-ammo",
+            "id": "material.empty-ammo",
             "num": 5
         },
         {
-            "name": "material.gunpowder",
+            "id": "material.gunpowder",
             "num": 4
         }
     ],
     "give":
     [
         {
-            "name": "ammo.shotgun",
+            "id": "ammo.shotgun",
             "num": 5
         }
     ]

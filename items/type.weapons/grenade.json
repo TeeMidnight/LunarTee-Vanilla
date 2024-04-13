@@ -1,20 +1,20 @@
 {
-    "name": "weapon.grenade",
+    "id": "weapon.grenade",
     "need": 
     [
         {
-            "name": "material.frame",
+            "id": "material.frame",
             "num": 4
         },
         {
-            "name": "material.metal",
+            "id": "material.metal",
             "num": 5
         }
     ],
     "give":
     [
         {
-            "name": "weapon.grenade",
+            "id": "weapon.grenade",
             "num": 1
         }
     ]

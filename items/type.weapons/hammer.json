@@ -1,20 +1,20 @@
 {
-    "name": "weapon.wooden.hammer",
+    "id": "weapon.wooden.hammer",
     "need": 
     [
         {
-            "name": "material.frame",
+            "id": "material.frame",
             "num": 2
         },
         {
-            "name": "material.wood",
+            "id": "material.wood",
             "num": 6
         }
     ],
     "give":
     [
         {
-            "name": "weapon.wooden.hammer",
+            "id": "weapon.wooden.hammer",
             "num": 1
         }
     ]

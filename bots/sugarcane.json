@@ -34,7 +34,7 @@
             "need": 
             [
                 {
-                    "name": "item.blueberry",
+                    "id": "item.blueberry",
                     "max": 2,
                     "min": 1
                 }
@@ -57,7 +57,7 @@
             ],
             "give":
             {
-                "name": "material.gunpowder",
+                "id": "material.gunpowder",
                 "max": 10,
                 "min": 5
             }
@@ -73,7 +73,7 @@
             ],
             "give":
             {
-                "name": "weapon.rifle",
+                "id": "weapon.rifle",
                 "max": 1,
                 "min": 1
             }
@@ -89,7 +89,7 @@
             ],
             "give":
             {
-                "name": "ammo.laser",
+                "id": "ammo.laser",
                 "max": 10,
                 "min": 5
             }

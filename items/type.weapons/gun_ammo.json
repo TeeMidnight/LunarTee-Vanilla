@@ -1,20 +1,20 @@
 {
-    "name": "ammo.gun",
+    "id": "ammo.gun",
     "need": 
     [
         {
-            "name": "material.empty-ammo",
+            "id": "material.empty-ammo",
             "num": 10
         },
         {
-            "name": "material.gunpowder",
+            "id": "material.gunpowder",
             "num": 4
         }
     ],
     "give":
     [
         {
-            "name": "ammo.gun",
+            "id": "ammo.gun",
             "num": 10
         }
     ]

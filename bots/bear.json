@@ -1,5 +1,5 @@
 {
-    "id": "monster.bear",
+    "id": "bot.monster.bear",
     "skin-id": "coala-vanilla",
     "health": 5,
     "attack_proba": 4,

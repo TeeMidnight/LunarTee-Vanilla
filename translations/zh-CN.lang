@@ -5,16 +5,16 @@
 = type.weapons
 ## 武器
 
-= monster.bear
+= bot.monster.bear
 ## 熊
 
-= resource.rock
+= bot.resource.rock
 ## 岩石
 
-= resource.shrub
+= bot.resource.shrub
 ## 灌木
 
-= npc.trader.sugarcane
+= bot.npc.trader.sugarcane
 ## 竹蔗
 
 = item.meat.bear

@@ -3,7 +3,7 @@
     "need": 
     [
         {
-            "id": "material.metal",
+            "id": "resource.metal",
             "num": 1
         },
         {

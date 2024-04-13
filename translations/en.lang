@@ -5,16 +5,16 @@
 = type.weapons
 ## Weapons
 
-= monster.bear
+= bot.monster.bear
 ## Bear
 
-= resource.rock
+= bot.resource.rock
 ## Rock
 
-= resource.shrub
+= bot.resource.shrub
 ## Shrub
 
-= npc.trader.sugarcane
+= bot.npc.trader.sugarcane
 ## Sugarcane
 
 = item.meat.bear

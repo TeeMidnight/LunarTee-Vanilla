@@ -1,30 +1,30 @@
 [
     {
-        "item": "Wood Hammer",
+        "item": "weapon.wooden.hammer",
         "weapon": 0
     },
     {
-        "item": "Gun",
-        "item_ammo": "Gun Ammo",
+        "item": "weapon.gun",
+        "item_ammo": "ammo.gun",
         "weapon": 1
     },
     {
-        "item": "Shotgun",
-        "item_ammo": "Shotgun Ammo",
+        "item": "weapon.shotgun",
+        "item_ammo": "ammo.shotgun",
         "weapon": 2
     },
     {
-        "item": "Grenade",
-        "item_ammo": "Grenade Ammo",
+        "item": "weapon.grenade",
+        "item_ammo": "ammo.grenade",
         "weapon": 3
     },
     {
-        "item": "Rifle",
-        "item_ammo": "Laser",
+        "item": "weapon.rifle",
+        "item_ammo": "ammo.laser",
         "weapon": 4
     },
     {
-        "item": "Ninja",
+        "item": "weapon.ninja",
         "weapon": 5
     }
 ]

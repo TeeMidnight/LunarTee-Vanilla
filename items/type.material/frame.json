@@ -1,20 +1,20 @@
 {
-    "name": "Frame",
+    "name": "material.frame",
     "need": 
     [
         {
-            "name": "Stone",
+            "name": "resource.stone",
             "num": 2
         },
         {
-            "name": "Wood",
+            "name": "resource.wood",
             "num": 1
         }
     ],
     "give":
     [
         {
-            "name": "Frame",
+            "name": "material.frame",
             "num": 2
         }
     ]

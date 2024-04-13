@@ -1,5 +1,5 @@
 {
-    "name": "Rock",
+    "id": "resource.rock",
     "skin-id": "rock-vanilla",
 
     "health": 12,
@@ -16,13 +16,13 @@
     "drops":
     [
         {
-            "name": "Stone",
+            "id": "material.stone",
             "proba": 100,
             "min": 1,
             "max": 4
         },
         {
-            "name": "Metal",
+            "id": "material.metal",
             "proba": 30,
             "min": 1,
             "max": 2

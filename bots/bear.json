@@ -1,5 +1,5 @@
 {
-    "name": "Bear",
+    "id": "monster.bear",
     "skin-id": "coala-vanilla",
     "health": 5,
     "attack_proba": 4,
@@ -15,7 +15,7 @@
     "drops":
     [
         {
-            "name": "Bear Meat",
+            "id": "item.meat.bear",
             "proba": 30,
             "min": 1,
             "max": 2

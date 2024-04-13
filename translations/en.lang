@@ -1,75 +1,75 @@
 
 = type.material
-## 材料
+## Material
 
 = type.weapons
-## 武器
+## Weapons
 
 = monster.bear
-## 熊
+## Bear
 
 = resource.rock
-## 岩石
+## Rock
 
 = resource.shrub
-## 灌木
+## Shrub
 
 = npc.trader.sugarcane
-## 竹蔗
+## Sugarcane
 
 = item.meat.bear
-## 熊肉
+## Bear Meat
 
 = resource.stone
-## 石块
+## Stone
 
 = resource.metal
-## 金属
+## Metal
 
 = resource.wood
-## 木头
+## Wood
 
 = item.blueberry
-## 蓝莓
+## Blueberry
 
 = money.lunarcoin
-## 月亮币
+## Lunar Coin
 
 = material.frame
-## 框架
+## Frame
 
 = material.empty-ammo
-## 空子弹
+## Empty Ammo
 
 = material.gunpowder
-## 火药
+## Gunpowder
 
 = weapon.wooden.hammer
-## 木锤
+## Wooden Hammer
 
 = weapon.gun
-## 手枪
+## Gun
 
 = ammo.gun
-## 手枪子弹
+## Gun ammo
 
 = weapon.shotgun
-## 霰弹枪
+## Shotgun
 
 = ammo.shotgun
-## 霰弹枪子弹
+## Shotgun ammo
 
 = weapon.grenade
-## 榴弹炮
+## Grenade Launcher
 
 = ammo.grenade
-## 榴弹
+## Grenade
 
 = weapon.rifle
-## 激光枪
+## Rifle
 
 = ammo.laser
-## 激光
+## Laser
 
 = weapon.ninja
-## 忍者刀
+## Ninja

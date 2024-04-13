@@ -1,9 +1,9 @@
 {
-    "name": "Empty Ammo",
+    "name": "material.empty-ammo",
     "need": 
     [
         {
-            "name": "Metal",
+            "name": "material.metal",
             "num": 1
         },
         {
@@ -14,7 +14,7 @@
     "give":
     [
         {
-            "name": "Empty Ammo",
+            "name": "material.empty-ammo",
             "num": 10
         }
     ]

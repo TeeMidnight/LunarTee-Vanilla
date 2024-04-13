@@ -1,20 +1,20 @@
 {
-    "name": "Shotgun",
+    "name": "weapon.gun",
     "need": 
     [
         {
-            "name": "Frame",
+            "name": "material.frame",
             "num": 2
         },
         {
-            "name": "Metal",
+            "name": "material.metal",
             "num": 3
         }
     ],
     "give":
     [
         {
-            "name": "Shotgun",
+            "name": "weapon.gun",
             "num": 1
         }
     ]

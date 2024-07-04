@@ -26,5 +26,9 @@
     {
         "item": "weapon.ninja",
         "weapon": 5
+    },
+    {
+        "item": "weapon.hand",
+        "weapon": 7
     }
 ]
